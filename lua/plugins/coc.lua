@@ -10,4 +10,5 @@ vim.g.coc_global_extensions = {
   'coc-prettier',
   'coc-css',
   'coc-vscode-loader',
+  'coc-sh'
 }
