@@ -1,0 +1,10 @@
+{
+  "coc.preferences.enableLinkedEditing": true,
+  "coc.preferences.formatOnSave": true,
+  "coc.source.file.trimSameExts": [".ts", ".js", ".jsx", ".tsx"],
+  "colors.enable": true,
+  "json.schemaDownload.trustedDomains": {
+    "https://www.schemastore.org": true,
+    "https://json.schemastore.org": true
+  }
+}
