@@ -1,4 +1,6 @@
-vim.cmd("packadd coc.nvim");
+vim.pack.add({
+  'https://github.com/neoclide/coc.nvim',
+})
 
 vim.g.coc_global_extensions = {
   'coc-tsserver',
