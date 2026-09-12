@@ -1,5 +1,10 @@
 {
   "plugins": {
+    "coc.nvim": {
+      "rev": "90b55f067595e7f9dd920c957d6345f434f32dd2",
+      "src": "https://github.com/neoclide/coc.nvim",
+      "version": "'release'"
+    },
     "mini.nvim": {
       "rev": "25f25d3e6661d942323e56711096de1850d814ec",
       "src": "https://github.com/nvim-mini/mini.nvim"

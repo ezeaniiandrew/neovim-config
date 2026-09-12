@@ -1,5 +1,8 @@
 vim.pack.add({
-  'https://github.com/neoclide/coc.nvim',
+  {
+    src = 'https://github.com/neoclide/coc.nvim',
+    version = 'release',
+  },
 })
 
 vim.g.coc_global_extensions = {
